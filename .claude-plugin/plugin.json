@@ -1,0 +1,22 @@
+{
+  "name": "trend-workflow",
+  "version": "1.0.0",
+  "description": "把 GitHub 趋势变成自己仓库的改进：每日趋势雷达、自动写 PRD、拆任务、开 PR 的 Agent Skill 与自动化流水线",
+  "author": {
+    "name": "张路",
+    "url": "https://zhanglu.net"
+  },
+  "homepage": "https://trend.zhanglu.net",
+  "repository": "https://github.com/zhanglunet/trend",
+  "license": "MIT",
+  "keywords": [
+    "trend",
+    "github-trending",
+    "skills",
+    "agent-skills",
+    "claude-code",
+    "workflow",
+    "prd",
+    "ai-agents"
+  ]
+}

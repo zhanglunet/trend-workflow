@@ -1,0 +1,19 @@
+{
+  "name": "trend-marketplace",
+  "description": "GitHub 趋势工作流技能市场",
+  "owner": {
+    "name": "张路",
+    "url": "https://zhanglu.net"
+  },
+  "plugins": [
+    {
+      "name": "trend-workflow",
+      "description": "把 GitHub 趋势变成自己仓库的改进：每日趋势雷达、自动写 PRD、拆任务、开 PR 的 Agent Skill 与自动化流水线",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "张路"
+      }
+    }
+  ]
+}
